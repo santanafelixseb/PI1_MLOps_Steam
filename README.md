@@ -38,5 +38,5 @@ La API proporciona una interfaz para solicitar datos puntuales del dataset.
 - ASGI web server: Uvicorn
 
 ## Enlaces
-- API: https://a.com:5000/docs
-- Video explicativo del proyecto: https://a.com
+- API: https://pi1-mlops-steam.onrender.com/docs
+- Video explicativo del proyecto: https://_.com
