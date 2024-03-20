@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.vscode/
+data_csv/
+data_pickle/
+resources/
+*.json.gz
+notes.txt
