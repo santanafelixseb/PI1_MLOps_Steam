@@ -39,4 +39,4 @@ La API proporciona una interfaz para solicitar datos puntuales del dataset.
 
 ## Enlaces
 - API: https://pi1-mlops-steam.onrender.com/docs
-- Video explicativo del proyecto: https://_.com
+- Video explicativo del proyecto: https://drive.google.com/drive/folders/1grRzZsm-WKCoV1MrX1FtjCjniEtFzwMJ
